@@ -1,0 +1,637 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Day-fatality, or, Some observations of days lucky and unlucky penn'd and publish'ed whil'st His present Majesty, the most serenc king, James II was Duke of York, persecuted by the excluding party, and retir'd into the Low-Countries : presaging many great things, some whereof are wonderfully come to pass, and particularly made good, in his peaceable inthronization, and his speedy quashing two notable rebellions, headed by two persons, eminent for military conduct, one in England, the other in Scotland, and by whom greater things are yet to be done.</title>
+            <author>Gibbon, John, 1629-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42682</idno>
+            <idno type="STC">Wing G648</idno>
+            <idno type="STC">ESTC R7283</idno>
+            <idno type="EEBO-CITATION">12144091</idno>
+            <idno type="OCLC">ocm 12144091</idno>
+            <idno type="VID">54906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 597:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Day-fatality, or, Some observations of days lucky and unlucky penn'd and publish'ed whil'st His present Majesty, the most serenc king, James II was Duke of York, persecuted by the excluding party, and retir'd into the Low-Countries : presaging many great things, some whereof are wonderfully come to pass, and particularly made good, in his peaceable inthronization, and his speedy quashing two notable rebellions, headed by two persons, eminent for military conduct, one in England, the other in Scotland, and by whom greater things are yet to be done.</title>
+                  <author>Gibbon, John, 1629-1718.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second impression, with large additions, to which is added, Prince-protecting-providences, and The swans welcome /</edition>
+               </editionStmt>
+               <extent>12, 12 [i.e. 10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Alexander Milbourn for the author : and are to be sold by the Booksellers of London ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to J[ohn] Gibbon. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Advertisement: p. [12].</note>
+                  <note>Imperfect: 2d 10 p. which includes "Prince protecting providences" and "The swans welcome," lacking in filmed copy.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Chronology, Historical.</term>
+               <term>Providence and government of God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54906:1"/>
+            <pb facs="tcp:54906:1" rendition="simple:additions"/>
+            <p>Day-Fatality: OR, SOME OBSERVATIONS OF <hi>Days Lucky and Vnlucky.</hi> Penn'd and Publiſh'd whil'ſt His Preſent MAJESTY, The Moſt Serene KING, JAMES II. WAS DUKE of YORK, Perſecuted by the <hi>Excluding Party,</hi> and Retir'd into the <hi>Low-Countries.</hi> Preſaging many Great Things, ſome whereof are wonderfully come to Paſs; and particularly made Good, in <hi>His Peaceable Inthronization,</hi> and <hi>His Speedy Quaſhing</hi> Two notable Rebellions, (headed by Two Perſons, Emi<g ref="char:EOLhyphen"/>nent for Military Conduct<g ref="char:punc">▪</g> One in <hi>England,</hi> the Other in <hi>Scotland. And by</hi> WHOM <hi>Greater Things are yet to be done.</hi>
+            </p>
+            <q>
+               <l>Illi Pax Comes eſt. Comes aut Victoria laeta.</l>
+               <l>
+                  <hi>Peace</hi> is His Mate: Or, if War chance to come,</l>
+               <l>It's His good Fate, His Foes to Over-come.</l>
+            </q>
+            <p>
+               <hi>The Second Impreſſion, with Large Additions.</hi>
+            </p>
+            <p>To which is Added, <hi>Prince-Protecting-Providences,</hi> AND The SWANS WELCOME.</p>
+            <p>All Written by an Officer at Arms, Author of a Book, Entituled, <hi>Introductio ad Latinàm Blaſoniam,</hi> &amp;c.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Alexander Milbourn,</hi> for the <hi>Author:</hi> And are to be Sold by the Bookſellers of <hi>London.</hi> 1686.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:54906:2"/>
+            <pb facs="tcp:54906:2"/>
+            <head>THE PREFACE.</head>
+            <p>IN the enſuing <hi>Treatiſe,</hi> (<hi>Pag.</hi> 10.) I inform my <hi>Reader,</hi> how Lucky the <hi>Fourteenth</hi> of <hi>October</hi> hath been to the Prin<g ref="char:EOLhyphen"/>ces of <hi>England:</hi> And obſerving out of <hi>Wharton</hi>'s <hi>Geſta Britan<g ref="char:EOLhyphen"/>norum,</hi> and the <hi>Collections</hi> of Others, That His late Royal Highneſs (our Preſent <hi>Magnanimous, Magnificent <hi>Soveraign</hi>
+               </hi>) was alſo Born upon that <hi>Augural Day;</hi> it made more than ordinary Impreſſion upon me: So that I never ſaw him, but, I thought, in his very Face there were extraordinary <hi>Indices,</hi> and Tokens of Regality.</p>
+            <p>But when after his Receſs into <hi>Holland,</hi> Thoſe (whom I Pro<g ref="char:EOLhyphen"/>phetically Characteris'd, <hi>Pag.</hi> 165. of my <hi>Introductio ad Latinam Blaſoniam</hi>) exceedingly Tryumphed, wiſhing he might never re<g ref="char:EOLhyphen"/>turn; nay, that he durſt not, nor would be permitted ſo to do; uſing moreover opprobrious Terms: Indignation made me Print my enſuing Sentiments. Which, though derided by <hi>Rome</hi>'s <hi>Pacquet,</hi> and the People of that Leven; yet (among the Better, and more Loyal Sort) found good Acceptance: As will appear in the next Page, by a Letter ſent me from an Honourable and Learned Knight.</p>
+            <p>Things by me forethought, and publickly hinted, being come to paſs, my <hi>Day-Fatality</hi> began to be remembred: And One (whom I wiſh very well) deſiring I would give him Leave to Re<g ref="char:EOLhyphen"/>print That, and Two other of my ſmall Pieces together, I aſſented to his Requeſt.</p>
+            <p>I will Conclude this <hi>Preface,</hi> with the following Metrical De<g ref="char:EOLhyphen"/>monſtration of my Loyal Well-Wiſhes:</p>
+            <q>
+               <l>Authoris Votivum pro Rege <hi>JACOBO</hi> Caermen</l>
+               <l>Aureus avulſo Primo non deficit alter.</l>
+               <bibl>
+                  <hi>Aen. lib: 6</hi>
+               </bibl>
+            </q>
+            <q>
+               <l>Conſtans Corde; piuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Anima; frugì; Generoſus;</l>
+               <l>Qui facturus erit dìtia Regna; Regit.</l>
+               <l>Huic eſto in <hi>Terris.</hi> Foelix diuturna Corona;</l>
+               <l>Aeterna in <hi>Coelis,</hi> altera detur ei.</l>
+               <l>Oremus <hi>Tanto</hi> ne deſit Maſcula Regi</l>
+               <l>Proles. Eximij quae ſit imago Patris.</l>
+               <l>Ejus poſteritas ſit in omne Volubilis aevum:</l>
+               <l>Sit Regum Series, ſtirps ſine fine, ſua.</l>
+            </q>
+            <pb facs="tcp:54906:3"/>
+            <p>Thus Tranſlated, and the Quotation of <hi>Virgil</hi> brought in to ac<g ref="char:EOLhyphen"/>company the reſt:</p>
+            <q>
+               <l>One's gone, Another comes, (welcom to All!)</l>
+               <l>Reſolv'd and Pious; Frugal; Liberal;</l>
+               <l>Whoſe Conduct make His Kingdoms flouriſh all.</l>
+               <l>Oh! May His Earthly Crown full long endure,</l>
+               <l>Before He of His Heavenly Crown be ſure.</l>
+               <l>Let's pray, So great a KING may live to ſee</l>
+               <l>A Son, who may his Father's Medal be.</l>
+               <l>Oh! May Great <hi>JAMES</hi> His Race for ever live,</l>
+               <l>And never fail a Liſt of KINGS to give.</l>
+            </q>
+         </div>
+         <div type="dedication">
+            <head>A Letter from Sir <hi>Winſton Churchil,</hi> Knight; Father to the Right Honourable, <hi>John</hi> Lord <hi>Churchil.</hi>
+            </head>
+            <p>
+               <hi>I</hi> Thank you for your kind Preſent, the Obſervation of the <hi>Fatality of Days.</hi> I have made great Experience of the Truth of it; and have ſet down <hi>Fryday,</hi> as my own Lucky Day; the Day on which I was Born, Chriſt'ned, Married, and, I believe, will be the Day of my Death: The Day whereon I have had ſundry Deliverances, (too long to relate) from Perils by Sea and Land, Perils by Falſe Brethren, Perils of Law-Suits, <hi>&amp;c.</hi> I was Knighted (by chance, unexpected by my ſelf) on the ſame Day; and have ſeveral good Accidents happened to me, on that Day: And am ſo ſuperſtitious in the Belief of its good Omen, That I chuſe to begin any Conſiderable Action (that concerns me) on the ſame Day. I hope HE, whom it moſt concerns, will live to own your Reſpect, and Good Wiſhes, expreſs'd in That Eſſay of yours: Which diſcovering a more than common Affection to the <hi>DUKE,</hi> and being as valuable for the Singularity of the <hi>Subject,</hi> as the Ingenuity of your <hi>Fancy,</hi> I ſent in<g ref="char:EOLhyphen"/>to <hi>Flanders,</hi> as ſoon as I had it; That They on the Other Side the Water may ſee, 'Tis not all ſowre Wine, that runs from our <hi>Engliſh</hi> Preſs.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:54906:3"/>
+            <head>Day-Fatality: OR, SOME OBSERVATIONS OF <hi>Days Lucky and Vnlucky.</hi> CONCLUDING With ſome Remarks upon the Fourteenth of <hi>October,</hi> The <hi>Auſpicious Birth-Day</hi> of His Royal Highneſs, JAMES Duke of York</head>
+            <epigraph>
+               <q>
+                  <l>Atavis qui Regibus editus,</l>
+                  <l>Auguſtiſſimo <hi>CAROLO</hi> Proximus.</l>
+                  <bibl>
+                     <hi>NUM. XXVII. 8, 9.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <bibl>LUC. XIX. 42.</bibl>
+                  <l>
+                     <hi>In Hoc Die Tuo.</hi>
+                  </l>
+                  <l>In This Thy Day.</l>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HAT there be Good and Evil Days and Times, not only the Sacred Scriptures, but Prophane Authors mention; See 1 <hi>Sam.</hi> 25.8. <hi>Eſther</hi> 8.17. and 9.19, 22. <hi>Ecclus</hi> 14.14.</p>
+            <p>The Fourteenth Day of the Firſt Month was a memorable and bleſ<g ref="char:EOLhyphen"/>ſed Day amongſt the Children of <hi>Iſrael:</hi> See <hi>Exod.</hi> 12.18, 40, 41, 42, 51. and 13.4. <hi>Levit.</hi> 23.5. <hi>Numb.</hi> 28.16. Four hundred and thirty Years being expired of their Dwelling in <hi>Aegypt,</hi> even in the ſelf-ſame Day departed they thence.</p>
+            <p>A thing ſomewhat parallel to this, we read in the <hi>Roman</hi> Hiſtories; That that very Day four years that the Civil Wars were begun by <hi>Pompey</hi> the Father, <hi>Caeſar</hi> made an end of them with his Sons; <hi>Cneus Pompeius</hi> being then ſlain, and it being alſo the laſt Battle <hi>Caeſar</hi> was ever in. <hi>Heylyn in the Kingdom of Corduba.</hi>]</p>
+            <p>Our <hi>Hiſtorians</hi> tells us, That <hi>Normandy</hi> was Conquer'd from Duke <hi>Robert</hi> by <hi>Henry</hi> the Firſt, that Day forty Years the <hi>Normans</hi> had won <hi>England:</hi> (A remarkable Re<g ref="char:EOLhyphen"/>taliation!) <hi>Anglia Nomandiae par retulit; England</hi> paid <hi>Normandy</hi> in its own Coyn. <hi>Burton</hi>'s <hi>Hiſtorical Remarks.</hi>
+            </p>
+            <p>The Calendar to <hi>Ovid's Faſtorum</hi> ſays, <hi>Aprilis erat menſis Graecis Auſpicatiſſimus,</hi> a moſt Auſpicious Month to the <hi>Graecians.</hi>
+            </p>
+            <pb n="6" facs="tcp:54906:4"/>
+            <p>As to Evil Dayes and Times, ſee <hi>Amos</hi> 5.13. and 6.3. <hi>Eccleſ.</hi> 9.12. <hi>Pſalm</hi> 37.19. <hi>Obad.</hi> 12. <hi>Jer.</hi> 46.21. And <hi>Job</hi> hints it, in curſing his Birth-day, <hi>Cap.</hi> 3. <hi>v.</hi> 1. to 11. See <hi>Weaver, p.</hi> 458. The old Rhimes concerning the <hi>Scots:</hi>
+            </p>
+            <q>
+               <l>Erly in a Morneuing,</l>
+               <l>In an <hi>Evil Tyming,</hi>
+               </l>
+               <l>Went they from <hi>Duubarre.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>Horace, lib.</hi> 2. <hi>Ode</hi> 13. curſing the Tree that had like to have fallen upon him, ſays, <hi>Ille nefaſto te poſuit die;</hi> intimating, that it was planted in an <hi>
+                  <g ref="char:V">Ʋ</g>nlucky Day.</hi>
+            </p>
+            <p>The <hi>Romans</hi> counted <hi>Febr.</hi> 13th. an unlucky Day, and therefore then never attempt<g ref="char:EOLhyphen"/>ed any Buſineſs of Importance; for on that Day they were overthrown at <hi>Allia</hi> by the <hi>Gauls;</hi> and the <hi>Fabii,</hi> attaquing the City of the <hi>Veii,</hi> were all ſlain, ſave one. <hi>Heylyn ſpeaking of St. Peter</hi>'s <hi>Patrimony.</hi>] And ſee the <hi>Calendar</hi> annext to <hi>Ovid</hi>'s <hi>Faſtorum,</hi> as to the laſt Circumſtance.</p>
+            <p>The <hi>Jews</hi> counted <hi>Auguſt</hi> Tenth, and Unfortunate Day; for on that Day the Temple was deſtroyed by <hi>Titus</hi> the Son of <hi>Veſpaſian:</hi> On which Day alſo, the firſt Temple was conſumed with Fire by <hi>Nebuchadaezzar. Heylyn.</hi>] The <hi>Treaſury of the Times</hi> ſays, The Eighth of <hi>Loyon (Auguſt)</hi> the very ſame Day 679. Years, one after another.</p>
+            <p>And not only among the <hi>Romans</hi> and <hi>Jews,</hi> but alſo among the <hi>Chriſtians,</hi> a like Cu<g ref="char:EOLhyphen"/>ſtom of obſerving ſuch Days is uſed, eſpecially <hi>Childermas</hi> or <hi>Innocents</hi>-day. <hi>Comines</hi> tells us, That <hi>Lewis</hi> XI. uſed not to debate any Matter, but accounted it a ſign of great Miſ<g ref="char:EOLhyphen"/>fortune towards him, if any Man communed with him of his affairs; and would be very angry with thoſe about him, if they troubled him in any matter whatſoever upon this Day.</p>
+            <p>But I will deſcend to more particular Inſtances of Lucky and Unlucky Days.</p>
+            <p>Upon the Sixth of <hi>April, Alexander the Great</hi> was born: Upon the ſame day he Con<g ref="char:EOLhyphen"/>quered <hi>Darius,</hi> won a great Victory at Sea, and died the ſame Day.</p>
+            <p>Neither was this Day leſs fortunate to his Father <hi>Philip;</hi> for on the ſame he took <hi>Poti<g ref="char:EOLhyphen"/>dea; Parmenio</hi> his General gave a great Overthrow to the <hi>Illyrians:</hi> and his Horſe was Victor at the <hi>Olympick Games.</hi> Therefore his Prophets foretold to him, <hi>Filium cujus na<g ref="char:EOLhyphen"/>talis, &amp;c.</hi> That a Son whoſe Birth-day was accompanied with Three Victories, ſhould prove Invincible. <hi>Pezelius</hi> in <hi>Mellificio Hiſtorico.</hi>
+            </p>
+            <p>Upon the Thirtieth of <hi>September, Pompey the Great</hi> was born: Upon that Day he Try<g ref="char:EOLhyphen"/>umphed for his <hi>Aſian</hi> Conqueſt; and on that Day he died.</p>
+            <p>The Nineteenth of <hi>Auguſt</hi> was the Day of <hi>Auguſtus</hi> his Adoption: On the ſame Day he began his Conſulſhip: He Conquer'd the <hi>Triumviri;</hi> and on the ſame Day he died. Hitherto out of the <hi>Memoirs of K.</hi> Charles I. <hi>Heros.</hi>
+            </p>
+            <p>If <hi>Solemon</hi> counts <hi>the Day of ones Death better than the Day of ones Birth,</hi> there can be no Objection, why that alſo may not be numbred amongſt ones Remarkable and Happy Days: And therefore I will inſert here, That the Eleventh of <hi>February</hi> was the No<g ref="char:EOLhyphen"/>ted Day of <hi>Elizabeth,</hi> Wife to <hi>Henry</hi> VII. who was born and died that Day. <hi>Weaver, p.</hi> 476. <hi>Brook</hi> in <hi>Hen.</hi> VII. <hi>Marriage. Stow</hi> in <hi>Anno</hi> 1466. 1503.</p>
+            <p>
+               <hi>Baſſianus Caracalla,</hi> the Emperor, was Born the Sixth of <hi>April,</hi> and Died the ſame Day; as ſays the <hi>French</hi> Author of the <hi>Journal Hiſtory.</hi>
+            </p>
+            <p>
+               <hi>Henry</hi> the <hi>Cardinal,</hi> King of <hi>Portugal,</hi> Died 1580. the laſt of <hi>January;</hi> upon which Day he alſo was Born Sixty eight Years before. <hi>Hiſtoire Genealogique de la Maiſon de France.</hi>
+            </p>
+            <p>So Saint <hi>Louis</hi> of <hi>Sicily,</hi> died upon the Nineteenth of <hi>Auguſt,</hi> the <hi>Anniverſary</hi>-Day of his Birth: A Man memorable for his Extraordinary Virtue and Piety; for he for<g ref="char:EOLhyphen"/>ſook the Infallible Succeſſion to his Father's Crown, and the Marriage of the Fair Prin<g ref="char:EOLhyphen"/>ceſs of <hi>Majorque,</hi> for a Cloyſter.</p>
+            <p>As alſo, that the Twenty third of <hi>November</hi> was the Obſervable Day of <hi>Francis</hi> Duke of <hi>Lunenburgh;</hi> who was born on that Day, and died upon the ſame, 1549. as ſays the <hi>French</hi> Author of the <hi>Journal Hiſtory;</hi> who adds, upon particular Remark, and obſer<g ref="char:EOLhyphen"/>vable Curioſity,</p>
+            <q>
+               <l>Ipſa Dies vitam contulit ipſa necem.</l>
+               <l>The ſame Day Life did give,</l>
+               <l>And made him ceaſe to live.</l>
+            </q>
+            <pb n="7" facs="tcp:54906:4"/>
+            <p>Sir <hi>Kenelm Digby,</hi> that Renowned Knight, great Linguiſt, and Magazen of Arts, was born and died on the Eleventh of <hi>June;</hi> and alſo fought fortunately at <hi>Scanderoon</hi> the ſame Day. Hear his Epitaph, compoſed by Mr. <hi>Farrar,</hi> and recited in the afore<g ref="char:EOLhyphen"/>ſaid <hi>Memoires:</hi>
+            </p>
+            <q>
+               <l>
+                  <g ref="char:V">Ʋ</g>nder this Stone the Matchleſs <hi>Digby</hi> lies,</l>
+               <l>
+                  <hi>Digby</hi> the Great, the Valiant, and the Wiſe:</l>
+               <l>This Ages Wonder, for his Noble Parts;</l>
+               <l>Skill'd in Six Tongues, and learn'd in All the Arts.</l>
+               <l>Born on the Day he died, th' Eleventh of <hi>June,</hi>
+               </l>
+               <l>On which he bravely fought at <hi>Scanderoon.</hi>
+               </l>
+               <l>'Tis rare, that one and ſelf-ſame Day ſhould be</l>
+               <l>His Day of Birth, of Death, of Victory.</l>
+            </q>
+            <p>I had a Maternal Uncle, that died the Third of <hi>March</hi> laſt, 1678. which was the Anniverſary-day of his Birth: And (which is a Truth exceeding ſtrange) many Years ago he fore-told, the Day of his Death to be that of his Birth; and he alſo averred the ſame but about a Week before his Departure. This Third of <hi>March</hi> is the Day of St. <hi>Eutropius,</hi> (of which hereafter.) And as to my Uncle, it was ſignificative; it <hi>turn'd</hi> well to him, according to that of <hi>Rev.</hi> 14.13. <hi>Bleſſed are the Dead, &amp;c.</hi> and that of <hi>Ovid, Metam. lib.</hi> 3.</p>
+            <q>
+               <l>—Dici<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> beatus</l>
+               <l>Ante obitum nemo ſuprema<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Funera debet.</l>
+            </q>
+            <q>
+               <l>—None happy call,</l>
+               <l>Before their Death, and final Funeral.</l>
+            </q>
+            <p>The Sixth of <hi>January</hi> was five times auſpicious to <hi>Charles</hi> Duke of <hi>Anjou. Ibid. in the Life of the Earl of Sunderland.</hi>
+            </p>
+            <p>The Twenty fourth of <hi>February</hi> was happy to <hi>Charles</hi> the Fifth four times. <hi>Ibid.] Heylyn</hi> ſpeaking of the Temple of <hi>Jeruſalem,</hi> hints Three of theſe Four: His Birth: His taking of <hi>Francis</hi> King of <hi>France,</hi> Priſoner: His receiving the Imperial Crown at <hi>Bononia.</hi> And ſo doth alſo the <hi>Journal Hiſtory</hi> before-mentioned.</p>
+            <p>Of the Family of the <hi>Trevors,</hi> Six ſucceſſive Principal Branches have been Born the Sixth of <hi>July.</hi> Same <hi>Memoirs.</hi>
+            </p>
+            <p>Sir <hi>Humphrey Davenport</hi> was born the Seventh of <hi>July;</hi> and on that Day Anniverſary, his Father and Mother died, within a quarter of an Hour one of another. <hi>Same Me<g ref="char:EOLhyphen"/>moirs.</hi>
+            </p>
+            <p>
+               <hi>Henry</hi> Earl of <hi>Northumberland,</hi> Convicted in <hi>Star-Chamber</hi> to have favoured the Deſign of the Fifth of <hi>November,</hi> died on the Fifth of <hi>November,</hi> ſome Years after: His Son, <hi>Algernoon,</hi> Earl of <hi>Northumberland,</hi> (Baptized the Thirteenth of <hi>October,</hi> 1602.) died the ſame Day, 1668.</p>
+            <p>I have ſeen an Old <hi>Romiſh MSS.</hi> Prayer-Book, (and ſhewed the ſame to that gene<g ref="char:EOLhyphen"/>ral Scholar, and great Aſtrologer, <hi>E. Aſhmole,</hi> 
+               <abbr>Eſq</abbr>) at the Beginning whereof was a <hi>Calendar,</hi> wherein were inſerted the Unlucky Days of each Month, ſet out in Verſe. I will recite them juſt as they are, ſometimes infringing the Rule of <hi>Grammar,</hi> ſome<g ref="char:EOLhyphen"/>times of <hi>Proſodia;</hi> a matter, of which the old <hi>Monkiſh Rhimers</hi> were no ways ſcrupu<g ref="char:EOLhyphen"/>lous. It was as Antient as <hi>Henry</hi> the Sixth, or <hi>Edward</hi> the Fourth's Time.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">January.</cell>
+                     <cell>
+                        <hi>Prima Dies menſis, &amp; ſeptima truncat ut enſis.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">February.</cell>
+                     <cell>
+                        <hi>Quarta ſubit mortem, proſternit tertia fortem.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">March.</cell>
+                     <cell>
+                        <hi>Primus mandentem, diſrumpit quarta bibentem:</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">April.</cell>
+                     <cell>
+                        <hi>Denus &amp; undenus eſt mortis vulnere plenus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">May.</cell>
+                     <cell>
+                        <hi>Tertius occidit, &amp; ſeptimus ora</hi>
+                        <note n="*" place="margin">Ex re &amp; Iaedo.</note> 
+                        <hi>relidit.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">June.</cell>
+                     <cell>
+                        <hi>Denus palleſcit, quindenus foedra neſcit.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">July.</cell>
+                     <cell>
+                        <hi>Ter-decimus mactat, Julii denus labefactat.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Auguſt.</cell>
+                     <cell>
+                        <hi>Prima necat fortem proſternit ſecunda cohortem.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">September.</cell>
+                     <cell>
+                        <hi>Tertia Septembris, &amp; denus fert mala membris.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">October.</cell>
+                     <cell>
+                        <hi>Tertius &amp; denus, eſt ſicut mors alienus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">November.</cell>
+                     <cell>
+                        <hi>Scorpius eſt quintus, &amp; tertius e nece cinctus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">December.</cell>
+                     <cell>
+                        <hi>Septimus exanguis, viroſus denus &amp; anguis.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="8" facs="tcp:54906:5"/>
+            <p>The Tenth Verſe is intolerable, and might be mended thus:</p>
+            <q>Tertia cum dena fit ſicut mors aliena.</q>
+            <p>If any object, and ſay, <hi>Deni</hi> is only the Plural; I excuſe my ſelf by that admirable <hi>Chronogram</hi> upon King <hi>Charles</hi> the Martyr;</p>
+            <q>
+               <l>Ter deno, Jani, Lunae, Rex (Sole cadente)</l>
+               <l>Carolus exutus Solio, Sceptro<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſecure.</l>
+            </q>
+            <p>Neither will I have recourſe for Refuge to that Old <hi>Tetraſtich;</hi>
+               <q>
+                  <l>Intrat Avaloniam duodena Caterva virorum</l>
+                  <l>Flos Arimathiae Joſeph, <hi>&amp;c.</hi>
+                  </l>
+               </q>
+becauſe I have even now blamed the Liberty of the Antient Rhymers.</p>
+            <p>He means by <hi>Mors aliena,</hi> ſome ſtrange kind of Death; though <hi>Aliena</hi> ſignifies <hi>Strange</hi> in quite another Senſe, than here uſed.</p>
+            <p>I ſhall take particular Notice here of the Third of <hi>November,</hi> both becauſe 'tis my own Birth-day, and alſo for that I have obſerved ſome remarkable Accidents to have happen'd thereupon.</p>
+            <p>
+               <hi>Conſtantius</hi> the Emperor, Son of <hi>Conſtantine the Great,</hi> little Inferiour to his Father, a worthy Warriour, and good Man, died the Third of <hi>November, ex Veteri Calenda<g ref="char:EOLhyphen"/>rio, penes me.</hi>
+            </p>
+            <p>
+               <hi>Thomas Mountacute,</hi> Earl of <hi>Salisbury,</hi> that great Man, and famous Commander <hi>ſub Henry</hi> IV. V. and VI. died this Day, by a Wound of Cannot-ſhot he received at the Siege of <hi>Orleance. E MSS. quodam, &amp; Glovero.</hi>
+            </p>
+            <p>So alſo Cardinal <hi>Borrhomeo,</hi> famous for his Sanctity of Life, and therefore Canoni<g ref="char:EOLhyphen"/>zed, (<hi>Heylyn,</hi> in his <hi>Praecognita,</hi> ſays, <hi>He made</hi> Milan <hi>memorable, by his Reſidence there</hi>) died 1584. this Day, as <hi>Poſſevinus in his Life.</hi>
+            </p>
+            <p>Sir <hi>John Perot,</hi> (<hi>Stow</hi> corruptly calls him <hi>Parrat</hi>) a Man very remarkable in his Time, Lord-Deputy of <hi>Ireland,</hi> Son to <hi>Henry</hi> the VIII. and extreamly like him, died in the <hi>Tower,</hi> the Third of <hi>November,</hi> 1592. (as <hi>Stow</hi> ſays.) Grief, and the Fatality of this Day, kill'd him. See <hi>Nanton</hi>'s <hi>Fragment a Regalia,</hi> concerning this Man.</p>
+            <p>
+               <hi>Stow,</hi> in his <hi>Annals,</hi> ſays, <hi>Anno</hi> 1099. <hi>November</hi> the Third, as well in <hi>Scotland</hi> as <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the Sea broke in over the Banks of many Rivers, drowning divers Towns, and much People, with an innumerable Number of Oxen and Sheep; at which time the Lands in <hi>Kent,</hi> ſometimes belonging to Earl <hi>Godwin,</hi> were covered with Sands, and drowned; and to this day are called, <hi>Godwin</hi>'s <hi>Sands.</hi>
+            </p>
+            <p>I had an Eſtate left me in <hi>Kent,</hi> of which between Thirty and Forty Acres was Marſh-Land, very conveniently flanking its Up-land; and in thoſe days this Marſh-land was uſually Lett for Four Nobles an Acre. My Father died 1643. Within a Year and an half after his Deceaſe, ſuch Charges and Water-Scots came upon this Marſh-Land, by the Influence of the Sea, that it was never worth one Farthing to me; but very of<g ref="char:EOLhyphen"/>ten eat into the Rents of the Up-land. So that I often think, this Day being my Birth-day, hath the ſame Evil Influence upon me, that it had 580. Years ſince upon Earl <hi>Godwin,</hi> and others concerned in Low Lands.</p>
+            <p>The <hi>Parliament</hi> ſo fatal to <hi>Romes</hi> Concerns here, in <hi>Henry</hi> the Eighth's Time, begun the Third of <hi>November,</hi> (the Twenty Sixth of his Reign): In which the <hi>Pope,</hi> with all his Authority, was clean baniſhed the Realm; he no more to be called otherwiſe, than <hi>Biſhop of Rome:</hi> The <hi>King</hi> to be taken, and reputed as Supreme Head of the <hi>Church of England;</hi> having full Authority to reform all Errors, Hereſies, and Abuſes of the ſame: Alſo, the Firſt-Fruits, and Tenths of all Spiritual Promotions and Dignities, were granted to the <hi>King.</hi> See <hi>Stow</hi>'s <hi>Annals,</hi> and <hi>Weaver, pag.</hi> 80.</p>
+            <p>Not long after which, followed the Viſitation of Abbies, Priories, and Nunneries; and after that, their final Suppreſſion: This <hi>Parliament</hi> being the Door of Entrance thereto.</p>
+            <p>The Third of <hi>November,</hi> 1640. began that <hi>Parliament</hi> ſo direfully fatal to <hi>England,</hi> in its Peace, its Wealth, its Religion, its Gentry, Nobility, nay, its <hi>King:</hi> So veri<g ref="char:EOLhyphen"/>fying the former Verſe of the <hi>Calendar;</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Scorpius est quintus, &amp; tertius e nece cinctus:</hi>
+               </l>
+               <l>A killing Day to ſome or other.</l>
+            </q>
+            <p>The Third of <hi>September</hi> was a Remarkable Day to the <hi>Engliſh Attila, Oliver,</hi> 1650.
+<pb n="9" facs="tcp:54906:5"/>He obtained a Memorable Victory at <hi>Dunbar;</hi> another at <hi>Worceſter,</hi> 1651. And that Day he died, 1658.</p>
+            <p>The firſt Two Occurrences wonderfully accord to the preceding Verſe;
+<q>Tertia Septembris, &amp; denus fert mala membris.</q>
+being fatal to the Two Members of <hi>Great Britain, Scotland</hi> and <hi>England.</hi> The Third, as happy to them both, as the ſame Day, 1666. was diſmal and unhappy to the City of <hi>London,</hi> and conſequently to the whole Kingdom; with its immediate preceding, and two ſucceeding Days, <hi>viz.</hi> the Second, Fourth, and Fifth of <hi>September.</hi>
+            </p>
+            <p>
+               <hi>Pope Paul</hi> the Third, confirm'd the latter Part of the Verſe, when he adviſed his Son, <hi>Peter Aloiſa,</hi> to beware of that Day: He neglecting it, was Murder'd, and cru<g ref="char:EOLhyphen"/>elly diſmember'd. <hi>Sleidan in his Commentaries;</hi> the <hi>Nineteenth Book.</hi>
+            </p>
+            <p>I come now to the Days of the Week.</p>
+            <p>
+               <hi>Tueſday, (Dies Martis)</hi> was a moſt Remarkable Day with <hi>Thomas Becket,</hi> Arch-biſhop of <hi>Canterbury,</hi> as <hi>Weaver</hi> 201. obſerves from <hi>Matt. Paris: Mars, ſecundum Poetas, Deus Belli nuncupatur. Vita Sancti Thomae (ſecundum illud Job, Vita hominis militia eſt ſuper terram) tota fuit contra hostem bellicoſa, &amp;c. Mars,</hi> according to the Poets, is called, <hi>The God of War.</hi> The Life of St. <hi>Thomas</hi> (according to that of <hi>Job, The Life of Man is a Warfare upon Earth</hi>) was a continual conflict againſt the Enemy. Upon the <hi>Tueſday,</hi> he ſuffered; upon <hi>Tueſday,</hi> he was tranſlated; upon <hi>Tueſday,</hi> the Peers of the Land ſate againſt him at <hi>Northampton;</hi> upon <hi>Tueſday,</hi> he was baniſhed; upon <hi>Tueſ<g ref="char:EOLhyphen"/>day,</hi> the Lord appeared to him at <hi>Pontiniac,</hi> ſaying, <hi>Thomas, Thomas, my Church ſhall be glorified in thy blood;</hi> upon <hi>Tueſday,</hi> he returned from Exile; upon <hi>Tueſday,</hi> he got the Palm or Reward of Martyrdom; and upon <hi>Tueſday,</hi> 1220. his Venerable Body received the Glory and Renown of Tranſlation, Fifty years after his Paſſion. Thus my Authors.</p>
+            <p>
+               <q>One thing I make bold to gloſs upon. His Tranſlation is here mentioned twice. <hi>Note,</hi> This is no Tautology of the Hiſtorian; but the latter Paragraph is a more particular Recitation of the firſt, <hi>viz.</hi> Reference to the time when he was Tranſla<g ref="char:EOLhyphen"/>ted into the number of Saints and Martyrs: <hi>Quando in Divorum numerum re<g ref="char:EOLhyphen"/>latus,</hi> as <hi>Cambden</hi> phraſes it in many places upon like Occaſion.</q>
+            </p>
+            <p>
+               <hi>Wedneſday</hi> is ſaid to have been the Fortunate Day of <hi>Sixtus Quintus,</hi> that Pope of Renowned Merit, that did ſo great and excellent things in the time of his Govern<g ref="char:EOLhyphen"/>ment. See <hi>The Juſt weight of the Scarlet Robe, pag.</hi> 101. his deſerved Praiſes.] On a <hi>Wedneſday,</hi> he was born; on that day he was made Monk; on the ſame, he was made General of his Order; on that alſo, was he ſucceſſively created Cardinal, elected Pope, and alſo Inaugurated. See <hi>Heylyn,</hi> ſpeaking of the Temple of <hi>Jeruſalem.</hi>
+            </p>
+            <p>
+               <hi>Fryday</hi> was obſerved to be very fortunate to the great and renowned Captain <hi>Gon<g ref="char:EOLhyphen"/>ſalvo,</hi> he having on that day given the <hi>French</hi> many memorable Defeats.</p>
+            <p>
+               <hi>Saturday</hi> was a Lucky Day to <hi>Hen.</hi> VII. Upon that Day he atchieved the Victory upon <hi>Ric.</hi> III. being <hi>Auguſt</hi> 22. 1485. On that Day he entred the City, being <hi>Aug.</hi> 29. [Correct <hi>Stow,</hi> who miſtakes the Day.] And he himſelf always acknowledg'd, he had experienced it Fortunate. See <hi>Bacon</hi> in his Life.</p>
+            <p>
+               <hi>Saturday</hi> alſo has been very ſucceſsful to the <hi>Portugals</hi> (as Their Chronicles report.) See Mr. <hi>Sandford</hi> (now <hi>Lancaſter-Herald</hi>) his Tranſlation of the Hiſtory of Their Kings; where he ſpeaks of the Recovery of that Kingdom from the <hi>Spani<g ref="char:EOLhyphen"/>ards.</hi>
+            </p>
+            <p>
+               <hi>Thurſday</hi> was a Fatal Day to <hi>Henry</hi> VIII. as <hi>Stow,</hi> 812.] and ſo alſo to his Poſte<g ref="char:EOLhyphen"/>rity. He died on <hi>Thurſday, Jan.</hi> 28. King <hi>Edward</hi> VI. on <hi>Thurſday, July</hi> 6. Queen <hi>Mary,</hi> on <hi>Thurſday, November</hi> 17. Queen <hi>Elizabeth,</hi> on <hi>Thurſday, March</hi> 24.</p>
+            <p>
+               <hi>Saturday,</hi> (or the <hi>Jewiſh Sabbath</hi>) was fatal to <hi>Jeruſalem Temple;</hi> for on that day 'twas taken by <hi>Pompey, Herod,</hi> and <hi>Titus,</hi> ſucceſſively. <hi>Heylyn.</hi>
+            </p>
+            <p>Hitherto by way of Prologue. And be pleas'd to take notice; As to the Days of the Month, I have taken ſuch care, that all are according to the <hi>Julian</hi> or Old Account, uſed by us here in <hi>England.</hi>] Pope <hi>Gregory</hi> XIII. brought in his New Stile (uſed gene<g ref="char:EOLhyphen"/>rally beyond Sea) <hi>Anno.</hi> 1585. in <hi>October,</hi> as aſſerts the <hi>Journal Hiſtory</hi> before reci<g ref="char:EOLhyphen"/>ted.</p>
+            <p>Now for Epilogue, and Remarkable Reflexion.</p>
+            <p>Turning over our Annals, I chanced upon a two-fold Circumſtance: I will not ſay, that none elſe hath obſerved the ſame; but I proteſt, <hi>(Ita me Deus amet, ut verum
+<pb n="10" facs="tcp:54906:6"/>loquor)</hi> I do not know of any that have; and therefore muſt juſtly claim to be acquit<g ref="char:EOLhyphen"/>ted from the leaſt ſuſpicion of Plagiariſm, or plowing with others Heifers.</p>
+            <p>The firſt is, of <hi>William the Conqueror.</hi> The ſecond, of <hi>Edward</hi> III. (I need not ſay any thing of the Eminency of theſe two; every one knows what great things they did.) And making reflection upon the Auſpicious Birth-day of His Royal Highneſs, the Duke of <hi>York,</hi> I adventured upon the following Compoſure. [I cannot be proud of my Poetry; but I cannot but be glad of my <hi>BON HE<g ref="char:V">Ʋ</g>R, d'avoir (en liſant) tombè ſi fortuitemènt ſur les evenements d'un ſi BON JO<g ref="char:V">Ʋ</g>R.</hi>]</p>
+            <p>
+               <hi>Ad Illuſtriſſimum &amp; Celſiſſimum Principem,</hi> JACOBUM <hi>Du<g ref="char:EOLhyphen"/>cem</hi> EBORACENSEM, <hi>de Natali Suo Auſpicatiſſimo,</hi> Octobris XIV. <hi>Anno</hi> MDCXXXIII.</p>
+            <q>
+               <l>— Deus</l>
+               <l>Anne nefaſto te poſuit die?</l>
+               <bibl>
+                  <hi>Hor. li. 2. od. 13.</hi>
+               </bibl>
+               <l>— The Fates, have they</l>
+               <l>Thy Birth deſign'd on an unlucky Day?</l>
+            </q>
+            <q>
+               <l>
+                  <hi>OCtobris</hi> Decimo quarto <hi>Normannus Haraldum</hi>
+               </l>
+               <l>Dux ſuperavit, &amp; hinc Regia Sceptra tulit.</l>
+               <l>Tertius <hi>Edwardus,</hi> capto pernice <hi>Caleto,</hi>
+               </l>
+               <l>(<hi>Gallica</hi> quo Regna ſunt reſerata ſibi)</l>
+               <l>Ire domum tentans, diris turbinibus actus</l>
+               <l>In pelago, Vitae Magua peric'la ſubit:</l>
+               <l>
+                  <hi>Octobris</hi> Decimo quarto, tamen appulit Oras</l>
+               <l>Nativas. (His quam proſperus ille dies?)</l>
+               <l>
+                  <hi>Natali</hi> laetare tuo, quam <hi>Maxime Princeps;</hi>
+               </l>
+               <l>
+                  <hi>Fauſta</hi> velut ſunt haec, <hi>Omina</hi> ſemper habe.</l>
+            </q>
+            <p>I have, contrary to the uſe of the Poets, made <hi>bi</hi> in <hi>Turbinibus</hi> long, becauſe the force of Pronounciation lies there; and as to that Matter, I have fully diſcourſed in my <hi>Introductio ad Latinam Blaſoniam,</hi> p. 144.</p>
+            <q>
+               <l>
+                  <hi>OCtobers</hi> Fourteenth gave the <hi>Norman</hi> Duke</l>
+               <l>That Vict'ry,<note place="margin">Stow in An. <hi>1066.</hi>
+                  </note> whence he <hi>Englands</hi> Scepter took.</l>
+               <l>Third <hi>Edward,</hi> after he had <hi>Calais</hi> won,</l>
+               <l>(The Mean whereby he <hi>France</hi> did over-run)</l>
+               <l>Returning home, by raging Tempeſts toſt,</l>
+               <l>(And neer his Life (ſo fortunes) to have loſt)</l>
+               <l>
+                  <note place="margin">Idem in An. <hi>1347.</hi>
+                  </note>Arrived ſafe on Shore the ſelf-ſame Date:</l>
+               <l>(This day to them afforded ſo fair Fate.)</l>
+               <l>
+                  <hi>Great Duke,</hi> rejoyce in this Your Day of <hi>Birth;</hi>
+               </l>
+               <l>And may ſuch <hi>Omens</hi> ſtill encreaſe Your <hi>Mirth.</hi>
+               </l>
+            </q>
+            <p>Theſe Verſes I preſented in <hi>Anno</hi> 1677. to a moſt Honourable Peer of the Land, and of great Place near His Royal Highneſs.</p>
+            <p>Since which time, old <hi>Fabian</hi> coming into my hands, from him I got knowledge, that that advantageous Peace, mentioned by <hi>Stow, Anno</hi> 1360. (concluded between the forementioned King <hi>Edward</hi> III. and the <hi>French</hi> King) was acted upon the Fourteenth of <hi>October,</hi> with grand Solemnity.</p>
+            <p>The two former Circumſtances muſt needs fall out Providentially: Whether this laſt of <hi>Anno</hi> 1360. was deſigned by <hi>Edward</hi> III. or no, (as remembring his former good hap) may be ſome queſtion: I am of opinion, not. Where things are under a Mans peculiar Concern, he may fix a time; but here was the <hi>French</hi> King concerned, equally with the <hi>Engliſh,</hi> and many other Great Perſonages intrereſſed: To have tied them up to his own Auſpicious Conceit of the Day, had been an unkind Oppreſſion, and would have brought the Judgment of ſo Wiſe a Prince into queſtion: We may conclude then, 'twas meerly Fortuitous. And therefore to the former Obſervation concerning this famous <hi>Edward,</hi> give me leave to add;</p>
+            <pb n="11" facs="tcp:54906:6"/>
+            <q>
+               <l>Inſuper hoc ipſo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> die (ſibi commoda) Grandis</l>
+               <l>Rex cum Galligenis, foedera fecit idem.</l>
+               <l>An advantageous Peace, on Day ſelf ſame,</l>
+               <l>This mighty Prince did with the <hi>Frenchmen</hi> frame.</l>
+            </q>
+            <p>
+               <hi>Dover</hi> Caſtle, was in Antient Time accounted the <hi>Key</hi> of <hi>England,</hi> (as teſti<g ref="char:EOLhyphen"/>fies <hi>Matth. Paris</hi>) Therefore, when <hi>Lewis</hi> of <hi>France</hi> had ſet footing here, and took ſome eminent Places, his Father ſwore, he had not a foots length in <hi>England,</hi> if he had not that Caſtle in his poſſeſſion. <hi>Kilburn's</hi> Survey of <hi>Kent,</hi> reports, That the fore<g ref="char:EOLhyphen"/>ſaid <hi>Lewis</hi> beſieged it from 22. of <hi>July,</hi> to the 14. of <hi>October</hi> following; about which time the Seige was raiſed, and <hi>England</hi> thereby relieved.</p>
+            <q>
+               <p>Sit ſi tuta Dubris manet <hi>Angliae</hi> tota ſalubris.</p>
+               <l>If <hi>Dover</hi> be ſure,</l>
+               <l>All <hi>England</hi>'s ſecure.</l>
+            </q>
+            <p>A memorable Peace (foretold by <hi>Noſtredamus</hi>) much conducing to the ſaving of <hi>Chriſtian</hi> Blood, was made upon the Fourteenth of <hi>October,</hi> 1557. between Pope <hi>Paul</hi> the IV. <hi>Henry</hi> the II. of <hi>France,</hi> and <hi>Phillip</hi> the II. of <hi>Spain. Noſtredamus</hi> ſayes, Theſe Great Princes were <hi>frappèz du Ciel,</hi> moved from Heaven to make this Peace. See <hi>Ga<g ref="char:EOLhyphen"/>rencier's Comment on Noſtredamus, pag.</hi> 76.</p>
+            <p>A Lucky Day this, not only to the Princes of <hi>England;</hi> but Auſpicious to the Wel<g ref="char:EOLhyphen"/>fare of <hi>Europe.</hi>
+            </p>
+            <p>Upon the Third of <hi>March</hi> laſt (being the day of St. <hi>Eutropius</hi>) His Royal Highneſs withdrew towards the <hi>Low-Countries: Procopius</hi> tells us, <hi>Humana ſaepe contingit a Deo mu<g ref="char:EOLhyphen"/>tari. Terence</hi> ſays, <hi>Viciſſitudo omnium rerum eſt.</hi> Which two Sayings, I can no way better Engliſh, than by that of <hi>Eccleſ.</hi> 9.11. <hi>Time and Chance happens to all men:</hi> Nor no way better ſecond, than with that of 1 <hi>Cor.</hi> 4.11. <hi>Incertis vagamur ſedibus.</hi> This Acci<g ref="char:EOLhyphen"/>dent therefore (our <hi>Life being but a Pilgrimage,</hi> as <hi>Jacob</hi> termed it to <hi>Pharaoh</hi>) is no<g ref="char:EOLhyphen"/>thing to a General Providence in the main. Therefore from the Augury of His Four<g ref="char:EOLhyphen"/>teenth of <hi>October,</hi> and from the good <hi>Omen</hi> comprehended in the Signification of <hi>Eu<g ref="char:EOLhyphen"/>tropius,</hi> which hints, That all this ſhall end <hi>well,</hi> and <hi>turn</hi> to the beſt; and from <hi>Eccluſ.</hi> 14.14, 15. I accoſt His Royal Highneſs with a <hi>Non defraudabitur a die bono;</hi> He ſhall not loſe his Good Day.</p>
+            <q>
+               <l>Dixerunt Ibis, pariter dixere Redibis</l>
+               <l>Te non infauſto Dii poſuere die.</l>
+               <l>The Gods thy <hi>Exit</hi> have ordain'd, and alſo they</l>
+               <l>Thy bleſt Return have firm'd, born on a Lucky Day.</l>
+            </q>
+            <p>I juſt now ſaid, That the third of <hi>March</hi> was dedicated to <hi>Eutropius,</hi> which is deri<g ref="char:EOLhyphen"/>ved from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>well,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>to turn:</hi> It is alſo dedicated to St. <hi>Maximus,</hi> St. <hi>Mari<g ref="char:EOLhyphen"/>nus,</hi> St. <hi>Lucius;</hi> which three alſo have notable hints in relation to His Royal Highneſs. Firſt, No man can deny, but that He is <hi>Maximus Princeps.</hi> Secondly, He is <hi>Maximus Marinus;</hi> for in the time of His Exile, He was Admiral of <hi>Aragon,</hi> as I have been told many years ſince in <hi>Flanders;</hi> and I am ſure very many Commiſſions in thoſe dayes paſt under His Name: And till 1673. He was Lord High Admiral of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Lucius</hi> comes from <hi>Luci,</hi> which ſignifies <hi>in the Morning;</hi> and betokens a Child born in the Morning, or at Sun-riſing, (which ſome affirm to be a good time for Birth:) But I will for my preſent purpoſe deduce it <hi>a Luceo;</hi> and I muſt affirm, <hi>Quod hic maximus Princeps geſtis marinis maxime lucet, &amp; alias lucebit;</hi> This moſt Great Prince is extreme<g ref="char:EOLhyphen"/>ly Illuſtrious in Sea Negotiations, and ſhall yet be otherwiſe moſt Illuſtrious.</p>
+            <p>That his Highneſs has long ſince verified the firſt Paragraph of my Aſſertion, take it not only on my Credit; but (beſides what has been ſaid before) hear part of an Ode to His Sacred Majeſty, on His Highneſs Victory over the <hi>Dutch, June</hi> 3. 1665. com<g ref="char:EOLhyphen"/>poſed by Sir <hi>Thomas Higgons,</hi> a moſt Worthy Perſon, whom his Foreign Negotiations have made enough known.</p>
+            <q>
+               <l>This day Your Empire Fate ſecures,</l>
+               <l>And now One half of the whole World is Yours.</l>
+               <pb n="12" facs="tcp:54906:7"/>
+               <l>The <hi>Auſtrian</hi> Youth, who won the day,</l>
+               <l>When the pale <hi>Creſcent</hi> to the <hi>Croſs</hi> gave way,</l>
+               <l>Muſt to Your Glorious Brother yield,</l>
+               <l>Who with leſs Loſs hath got a greater Field, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <p>The <hi>Germans, High</hi> and <hi>Low,</hi> (amongſt which laſt His Highneſs now reſides) call <hi>October, Wyn-maendt (Menſis Vindemialis) the Wine-month.</hi>
+            </p>
+            <p>The Effects of Wine we read <hi>Judges</hi> 9.13. <hi>Pſal.</hi> 104.15. <hi>Eccleſ.</hi> 10.19. <hi>Zech.</hi> 10.7. Why then may we not term this Month <hi>Menſis Laetificans?</hi> That it may be ſo to his Royal Highneſs, as well as it was to the moſt Great Queen His<note n="*" place="margin">
+                  <hi>John</hi> 16.21.</note> Mother, are the hearty Prayers of <hi>BLEW-MANTLE.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Virg. lib. 1.</hi>
+               </bibl>
+               <l>—Haec olim memeniſſe juvabit:</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>unanimes omnes, cum Te (Dux Celſe) reducto,</l>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ib. l. 7. &amp; 1.</hi>
+               </bibl>
+               <l>Certatim inſtaurent epulas, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> omine magno</l>
+               <l>Crateres laeti ſtatuant &amp; Vina coronent.</l>
+            </q>
+            <q>
+               <l>Remembrance of theſe things, delight ſhall Thee,</l>
+               <l>When (home return'd) great Feaſtings thou ſhalt ſee,</l>
+               <l>And Healthings round, ſhall ſtir up gladſom glee;</l>
+               <l>And this Rejoycing general ſhall be.</l>
+            </q>
+            <p>I have by me a Book Printed <hi>Anno</hi> 1641. containing the true Effigies of King <hi>CHARLES</hi> the Firſt, of Bleſſed Memory, his Queen, with their Royal Progeny, with Verſes annext, wherein are notable Predictions of His Royal Highneſs, which I will here recite:</p>
+            <q>
+               <l>This Prince, much like another Sun, darts forth</l>
+               <l>Moſt glorious Beams to's Dukedom, and the North;</l>
+               <l>And makes us ſee with Eyes of expectation,</l>
+               <l>He'll be a mighty Pillar to this Nation,</l>
+               <l>A Stay of State, a ſtrong ſupporting Prop,</l>
+               <l>Whoſe Fame will ſcale the Heighth of Honours Top.</l>
+               <l>He hates dull Idleneſs, and loves to be</l>
+               <l>In Action, ſuch as fits His High Degree:</l>
+               <l>He will be ſtirring in ſuch Exerciſe</l>
+               <l>As well becomes His Years and Qualities.</l>
+               <l>Surely th' Eternal Eye of Providence</l>
+               <l>Doth watch, direct, and guide this Hopeful Prince,</l>
+               <l>For ſome Deſigns may be for Heavens glory,</l>
+               <l>And fill the Earth with <hi>JAMES</hi> His Noble Story.</l>
+               <l>This <hi>All True Britains</hi> do expect in Love:</l>
+               <l>No doubt, our Wiſhes are confirm'd Above.</l>
+            </q>
+            <p>Thus that Book: And I add,</p>
+            <q>Quis meliora petat, conſultus quod Tripos edat?</q>
+            <q>
+               <l>Who Better things than theſe can wiſh</l>
+               <l>From the Oracles Breath of Bliſs?</l>
+            </q>
+            <q>
+               <l>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1678</label> Martis Menſe data haec, timidi committere praelo</l>
+               <l>Non Impreſſores audebant (<note n="*" place="margin">Prov. 6.19.</note> tempore duro.)</l>
+            </q>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>INtroductio ad Latinam Blaſoniam;</hi> Or, <hi>An Eaſie Introduction to Latine Blaſon,</hi> (being both <hi>Latine</hi> and <hi>Engliſh;</hi>) approved by the Teſtimonial of the Three Kings at Arms, and <hi>Elias Aſhmole,</hi> Eſquire, Late <hi>Windſor-Herald.</hi> And Dedicated to the Right Honourable, <hi>Robert</hi> Earl of <hi>Aylsbury.</hi> A Work be<g ref="char:EOLhyphen"/>fitting all Gentlemen, Lovers of Armory, and the <hi>Latin</hi> Tongue. Sold by <hi>Robert Clavel,</hi> at the <hi>Peacock</hi> in <hi>Pauls Church-Yard; Benjamin Billingſley,</hi> at the <hi>Printing-Preſs</hi> in <hi>Cornhill;</hi> and <hi>A. Churchill,</hi> at the <hi>Black-Swan</hi> in <hi>Ave-Mary-Lane.</hi>
+            </p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
